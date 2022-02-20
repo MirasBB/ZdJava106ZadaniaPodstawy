@@ -21,6 +21,6 @@ public class Task2 {
 
     private static boolean isWordEndsWithPrefix(String input, String prefix) {
         return input != null ? input.endsWith(prefix) : false; //logika ? akcja gdy true : akcja gdy false
-//        
+//
     }
 }
